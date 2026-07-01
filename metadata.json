@@ -1,0 +1,6 @@
+{
+  "name": "Tarbiya va XXI Asr Ko'nikmalari",
+  "description": "Jahon va milliy tarbiya konsepsiyalari asosida o'quvchilarda XXI asr ko'nikmalarini shakllantirish metodikasi bo'yicha interaktiv pedagogik platforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
